@@ -1,0 +1,3 @@
+Hello Linux
+This is my first vi test file.
+Editing and saving works fine.
